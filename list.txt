@@ -1,0 +1,15 @@
+br.chat.si.riotgames.com
+eun1.chat.si.riotgames.com
+euw1.chat.si.riotgames.com
+jp1.chat.si.riotgames.com
+la1.chat.si.riotgames.com
+la2.chat.si.riotgames.com
+na2.chat.si.riotgames.com
+oc1.chat.si.riotgames.com
+ph1.chat.si.riotgames.com
+ru1.chat.si.riotgames.com
+sg1.chat.si.riotgames.com
+th1.chat.si.riotgames.com
+tr1.chat.si.riotgames.com
+tw1.chat.si.riotgames.com
+vn1.chat.si.riotgames.com
